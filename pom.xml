@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.smart</groupId>
-    <artifactId>chapter2</artifactId>
+    <artifactId>root</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
     <name>xhh-ssi-parent</name>
